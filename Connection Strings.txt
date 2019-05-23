@@ -1,0 +1,9 @@
+<connectionStrings>
+    <add name ="sqlpracticeconn" connectionString="user id=sa; password= P@ssw0rd; data source= DESKTOP-GI00F2N;initial catalog= sqlpractice" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+
+
+
+
+
+https://github.com/Prasad-Capgemini/Dotnet
